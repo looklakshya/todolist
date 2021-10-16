@@ -1,0 +1,10 @@
+.nav {
+   font-size: large;
+}
+
+.my-bg-img {
+   background-image: url(./background.jpg);
+   background-size: cover;
+   height: 1000vh;
+   /* background-repeat: repeat-y; */
+}
